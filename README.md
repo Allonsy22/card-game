@@ -1,6 +1,7 @@
 # Card game
 ## A simple responsive card game 
 
+[Example for local game](https://castle-battle.surge.sh/)
 
 ## Tech
 - [Vue 2](https://vuejs.org/) - Main framework.
