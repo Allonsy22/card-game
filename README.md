@@ -1,5 +1,5 @@
 # Card game
-## A simple responsive card game 
+## A simple responsive card game for local and online game
 
 [Example for local game](https://castle-battle.surge.sh/)
 
